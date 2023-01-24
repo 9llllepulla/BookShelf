@@ -1,4 +1,4 @@
-package com.gllllepulla.api;
+package com.gllllepulla;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
